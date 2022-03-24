@@ -1,7 +1,7 @@
 {
-  "name": "BotWa",
+  "name": "Agil Bot",
   "version": "1.0.0",
-  "description": "Kagura Botz",
+  "description": "Agil Bot",
   "main": "main.js",
   "directories": {
     "lib": "lib"
