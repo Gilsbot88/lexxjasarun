@@ -1,15 +1,15 @@
 exports.paymentstore = (owner) => {
 return `*PAYMENT STORE*
-Dana : 0881-7864-684
-Ovo : 0823-1646-4080
-Pulsa : 0823-1646-4080
+Dana : 0831-3689-0848
+Ovo : BELUM TERSEDIA
+Pulsa : 0831-3689-0848
 
 Note :
 Jika Sudah Transfer Wajib Kirim
 Bukti Transfer Ke Nomor Di Bawah
 Agar Bisa Cepat Di Proses Langsung
 
-Wa.me/${owner}
+Wa.me/${6283136890848}
 `
 }
 
@@ -19,8 +19,8 @@ return `*DROP DATA DIAMOND FF*
 • LEGAL 100%
 • PROSES 1-7 MENIT
 
-*50 💎 Rp 7.789*
-*70 💎 Rp 10.000*
+*50 💎 Rp 10.789*
+*70 💎 Rp 13.000*
 *100 💎 Rp 15.500*
 *140 💎 Rp 19.500*
 *210 💎 Rp 28.522*
@@ -140,7 +140,7 @@ return `*DROP DATA GARENA SHELL*
 • PROSES 1-5 MENIT
 • STOK UNLIMITED
 
-*33 SHELL 💰	Rp 10.000*
+*33 SHELL 💰	Rp 15.000*
 *66 SHELL 💰	Rp 20.000*
 *99 SHELL 💰	Rp 30.000*
 *165 SHELL 💰	Rp 50.000*
@@ -238,9 +238,9 @@ return`*HAI KAK MAU BENERAN DONASI ATAU TIDAK KAK*
 *SEMOGA TIDAK DILIHAT DOANG*
 
 *PAYMENT BOT*
-DANA: (0857-8900-4732)
-OVO: (0822-7991-5237)
-PULSA: (0822-7991-5237)
+DANA: (0831-3689-0848)
+OVO: (BELUM TERSEDIA)
+PULSA: (0831-3689-0848)
 
 *TERIMA KASIH KAK*
 *LOVE YOU😋*`
